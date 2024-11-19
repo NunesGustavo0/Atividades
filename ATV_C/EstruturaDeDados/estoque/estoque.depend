@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1732043825 source:d:\salve_aqui_seus_arquivos\nunes\projetos\estoque\main.c
+	<stdio.h>
+	"estoque.h"
+
+1732043812 source:d:\salve_aqui_seus_arquivos\nunes\projetos\estoque\estoque.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estoque.h"
+
+1732043774 d:\salve_aqui_seus_arquivos\nunes\projetos\estoque\estoque.h
+	<stdbool.h>
+

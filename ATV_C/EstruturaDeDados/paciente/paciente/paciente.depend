@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:d:\salve_aqui_seus_arquivos\nunes\projetos\paciente\paciente\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1732044144 source:d:\salve_aqui_seus_arquivos\nunes\projetos\paciente\paciente\paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paciente.h"
+
+1732044122 d:\salve_aqui_seus_arquivos\nunes\projetos\paciente\paciente\paciente.h
+
